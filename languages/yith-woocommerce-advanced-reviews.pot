@@ -1,0 +1,826 @@
+# Copyright (C) 2021 YITH
+# This file is distributed under the same license as the YITH WooCommerce Advanced Reviews package.
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Advanced Reviews 1.7.0\n"
+"Report-Msgid-Bugs-To: YITH <plugins@yithemes.com>\n"
+"POT-Creation-Date: 2021-10-07 14:45:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: YITH <info@yithemes.com>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: class.yith-woocommerce-advanced-reviews.php:425
+#: class.yith-woocommerce-advanced-reviews.php:426
+#: class.yith-woocommerce-advanced-reviews.php:428
+#: class.yith-woocommerce-advanced-reviews.php:885
+#: templates/ywar-product-reviews.php:31
+msgid "Reviews"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:592
+msgid "Approve review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:592
+msgid "Approve"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:594
+msgid "Unapprove review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:594
+msgid "Unapprove"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:642
+#. translators: %s: average
+msgid "Rated %s out of 5 stars"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:653
+msgid " review"
+msgid_plural " reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class.yith-woocommerce-advanced-reviews.php:690
+msgid ""
+"YITH WooCommerce Advanced Reviews is available in an outstanding PREMIUM "
+"version with many new options, discover it now."
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:691
+msgid "Premium version"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:700
+msgid ""
+"In YIT Plugins tab you can find YITH WooCommerce Advanced Reviews options. "
+"From this menu you can access all settings of YITH plugins activated."
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:716
+msgid ""
+"From now on, you can find all YITH WooCommerce Advanced Reviews options in "
+"YIT Plugin -> Advanced Reviews instead of WooCommerce -> Settings -> "
+"Advanced Reviews, as in the previous version. Any time one of our plugins "
+"is updated, a new entry will be added to this menu."
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:755
+msgid "General"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:756
+msgid "Layout"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:759
+msgid "Premium Version"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:886
+msgid "Parent Review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:887
+msgid "All reviews"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:888
+msgid "View review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:889
+msgid "Add New Review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:890
+msgid "Add New"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:891
+msgid "Edit Review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:892
+msgid "Update Review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:893
+msgid "Search Review"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:894
+msgid "Not Found"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:895
+msgid "Not found in bin"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:901
+msgid "YIT Product reviews"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:902
+msgid "Advanced WooCommerce product reviews"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1230
+#: templates/admin/premium.php:226
+msgid "Review title"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1329
+msgid "Your Rate"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1331
+msgid "Rate&hellip;"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1332
+msgid "Perfect"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1333
+msgid "Good"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1334
+msgid "Average"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1335
+msgid "Not that bad"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1336
+msgid "Very Poor"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1343
+msgid "Attachments"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1344
+msgid "Choose file(s)"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1427
+#. translators: %d: count
+msgid "Reviews(%d)"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1477
+msgid "Review attributes"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1689
+#: templates/ywar-rating.php:30
+#. translators: %s: rating
+#. translators: %s: average
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1693
+#: lib/class.yith-advanced-reviews-list-table.php:485
+#: templates/ywar-review.php:59
+msgid "out of 5"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1723
+msgid "Convert reviews"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1726
+msgid ""
+"If this is the first time you install the YITH Advanced Reviews plugin, or "
+"if you are using an older version prior to the 1.1.0, first you have to "
+"convert the older reviews if you want to use them."
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1748
+#. translators: %d: Review converted
+msgid "Task completed. %d reviews have been processed and converted."
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:1752
+msgid "Task completed. No review to convert has been found."
+msgstr ""
+
+#: init.php:33
+msgid ""
+"YITH WooCommerce Advanced Reviews is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+
+#: init.php:48
+msgid ""
+"You can't activate the free version of YITH WooCommerce Advanced Reviews "
+"while you are using the premium one."
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:61
+msgid "Review"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:62
+msgid "Author"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:63
+msgid "Date"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:64
+msgid "Rate"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:65
+msgid "Product"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:371
+#: lib/class.yith-advanced-reviews-list-table.php:462
+msgid "Restore"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:372
+msgid "Move to bin"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:374
+#: lib/class.yith-advanced-reviews-list-table.php:467
+msgid "Delete permanently"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:375
+msgid "Approve reviews"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:376
+msgid "Unapprove reviews"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:389
+msgid "All"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:390
+#: lib/class.yith-advanced-reviews-list-table.php:464
+msgid "Bin"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:391
+msgid "Not approved"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:462
+msgid "Restore this item from the bin"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:464
+msgid "Move this item to the bin"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:467
+msgid "Delete this item permanently"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:482
+#: templates/ywar-review.php:53
+#. translators: %d: rating
+#. translators: %s: Name of a city
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:498
+msgid "Edit"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:501
+msgid "View"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:508
+#: lib/class.yith-advanced-reviews-list-table.php:513
+#: templates/ywar-review.php:26
+msgid "Anonymous"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:522
+msgid "Y/m/d g:i:s a"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:530
+#. translators: %s: Time
+msgid "%s ago"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:532
+msgid "Y/m/d"
+msgstr ""
+
+#: lib/class.yith-advanced-reviews-list-table.php:569
+msgid "No reviews found."
+msgstr ""
+
+#: lib/class.yith-woocommerce-advanced-reviews-privacy.php:263
+#. translators: %d: Comment ID
+msgid "Review %d contains personal data but could not be anonymized."
+msgstr ""
+
+#: plugin-options/general-options.php:24
+msgid "General settings"
+msgstr ""
+
+#: plugin-options/general-options.php:29
+msgid "Show title"
+msgstr ""
+
+#: plugin-options/general-options.php:31
+msgid "Add a title field in the reviews."
+msgstr ""
+
+#: plugin-options/general-options.php:36
+msgid "Show attachments"
+msgstr ""
+
+#: plugin-options/general-options.php:38
+msgid "Add an attachment section in the reviews."
+msgstr ""
+
+#: plugin-options/general-options.php:43
+msgid "Multiple attachment limit"
+msgstr ""
+
+#: plugin-options/general-options.php:45
+msgid "Set the maximum number of attachments that can be selected (0 = no limit)."
+msgstr ""
+
+#: plugin-options/general-options.php:50
+msgid "Previous reviews"
+msgstr ""
+
+#: plugin-options/layout-options.php:23
+msgid "Review summary options"
+msgstr ""
+
+#: plugin-options/layout-options.php:29
+msgid "Background bar color"
+msgstr ""
+
+#: plugin-options/layout-options.php:36
+msgid "Percentage bar color"
+msgstr ""
+
+#: plugin-options/layout-options.php:43
+msgid "Show percentage value"
+msgstr ""
+
+#: plugin-options/layout-options.php:45
+msgid "Show % value on percentage bars."
+msgstr ""
+
+#: plugin-options/layout-options.php:50
+msgid "Percentage value color"
+msgstr ""
+
+#: templates/admin/premium.php:197 templates/admin/premium.php:654
+#. translators: %1: html %2: html
+msgid ""
+"Upgrade to the %1$spremium version%2$s of %1$sYITH WooCommerce Advanced "
+"Reviews%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:207 templates/admin/premium.php:664
+#. translators: %1: html %2: html
+msgid "%1$sUPGRADE%2$s %3$sto the premium version%2$s"
+msgstr ""
+
+#: templates/admin/premium.php:218
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:221
+msgid "SUMMARIZE"
+msgstr ""
+
+#: templates/admin/premium.php:232
+#. translators: %1: html %2: html
+msgid ""
+"Giving a title to a review is a smart way to make a %1$ssummary of the "
+"content%2$s in few words. With it, it will be easier to find a particular "
+"review, for a better visual effect."
+msgstr ""
+
+#: templates/admin/premium.php:246
+msgid "REVIEW ATTACHMENT"
+msgstr ""
+
+#: templates/admin/premium.php:252
+#. translators: %1: html %2: html
+msgid ""
+"Attach one or more files to reviews is today a need for many users that "
+"surf web shops. Be always up-to-date and purchase the premium version of "
+"the plugin to offer your users the freedom to %1$sattach files%2$s for a "
+"complete service."
+msgstr ""
+
+#: templates/admin/premium.php:260
+msgid "ADD AN ATTACHMENT"
+msgstr ""
+
+#: templates/admin/premium.php:267
+msgid "CUSTOMIZE COLOURS"
+msgstr ""
+
+#: templates/admin/premium.php:272
+msgid "COLOR CUSTOMIZATION"
+msgstr ""
+
+#: templates/admin/premium.php:274
+msgid ""
+"Appearance is important, and this is why it will be simple for you to "
+"customize some of the %1$Scolors%2$S of the plugin to blend it with the "
+"%1$Sstyle%2$S of your theme. Nice and easy."
+msgstr ""
+
+#: templates/admin/premium.php:283
+msgid "VOTER PERCENTAGE BY RATING"
+msgstr ""
+
+#: templates/admin/premium.php:289
+#. translators: %1: html %2: html
+msgid ""
+"Each product of your shop will display a box with %1$sreviews%2$s and "
+"%1$svotes%2$s, in addition to percentages that represent each star rate. "
+msgstr ""
+
+#: templates/admin/premium.php:297
+msgid "REPRESENT GRAPHICALLY"
+msgstr ""
+
+#: templates/admin/premium.php:304 templates/admin/premium.php:309
+msgid "MODAL WINDOW"
+msgstr ""
+
+#: templates/admin/premium.php:315
+#. translators: %1: html %2: html
+msgid ""
+"Enabling this option, the result of the review filter will be slightly "
+"different: %1$sthe filtered review will be showed%2$s in a modal window."
+msgstr ""
+
+#: templates/admin/premium.php:329 templates/admin/premium.php:343
+msgid "LOAD MORE"
+msgstr ""
+
+#: templates/admin/premium.php:335
+#. translators: %1: html %2: html
+msgid ""
+"%1$sDo you want to hide some of your reviews?%2$s Set how many to show with "
+"the relative option, and if you want to let users read the rest of them, "
+"choose the load more option."
+msgstr ""
+
+#: templates/admin/premium.php:350 templates/admin/premium.php:355
+msgid "VOTE THE REVIEW"
+msgstr ""
+
+#: templates/admin/premium.php:361
+#. translators: %1: html %2: html
+msgid ""
+"Have you found a review that was particularly good and explicative and that "
+"helped you a lot choose a product? Give prominence to it and express your "
+"satisfaction or disappointment through the dedicated %1$supvote%2$s or "
+"%1$sdownvote%2$s buttons."
+msgstr ""
+
+#: templates/admin/premium.php:375 templates/admin/premium.php:389
+msgid "NUMBER"
+msgstr ""
+
+#: templates/admin/premium.php:381
+#. translators: %1: html %2: html
+msgid ""
+"This feature allows you to provide users with another piece of information "
+"concerning each individual review: it displays %1$sthe number of users%2$s "
+"that have appreciated it by expressing their preference for it."
+msgstr ""
+
+#: templates/admin/premium.php:396 templates/admin/premium.php:401
+msgid "FILTER BY RATING"
+msgstr ""
+
+#: templates/admin/premium.php:407
+#. translators: %1: html %2: html
+msgid ""
+"%1$sThe product you are watching has too many reviews?%2$sDo not worry, it "
+"is possible to filter reviews according to the vote users have given to the "
+"product. Thanks to this feature, you will be able to filter and analyse "
+"results simply and quickly, without having to scroll the entire list to "
+"find what you need."
+msgstr ""
+
+#: templates/admin/premium.php:421 templates/admin/premium.php:435
+msgid "REPLY TO REVIEW"
+msgstr ""
+
+#: templates/admin/premium.php:427
+#. translators: %1: html %2: html
+msgid ""
+"You can control the answers of the reviews with the options %1$sreply to "
+"all%2$s, %1$snone%2$s or %1$sonly to the administrator of the site%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:442 templates/admin/premium.php:447
+msgid "MANUAL REVIEW APPROVAL"
+msgstr ""
+
+#: templates/admin/premium.php:453
+#. translators: %1: html %2: html
+msgid ""
+"Sometimes you might feel the need to approve manually reviews that your "
+"users write for your products. This option allows you to filter all "
+"reviews, and it will be always up to you to approve them %1$sbefore they "
+"can be shown%2$s to everyone."
+msgstr ""
+
+#: templates/admin/premium.php:467 templates/admin/premium.php:481
+msgid "ENABLE VOTE FOR ALL"
+msgstr ""
+
+#: templates/admin/premium.php:473
+#. translators: %1: html %2: html
+msgid ""
+"Do you want to prevent users to %1$svote reviews?%2$s Set the options "
+"following your needs, choosing whether only registered users can vote or "
+"anyone can."
+msgstr ""
+
+#: templates/admin/premium.php:488 templates/admin/premium.php:493
+msgid "INAPPROPRIATE REVIEWS"
+msgstr ""
+
+#: templates/admin/premium.php:499
+#. translators: %1: html %2: html
+msgid ""
+"Among the different reviews your products receive, some of them might be "
+"way out of line, or contain gross words. %1$sGive your users the freedom to "
+"report them as \"inappropriate\":%2$s in this way, after a certain number "
+"of markings (that you can choose), the review will be automatically removed "
+"from the system. Clear your shop from impolite users."
+msgstr ""
+
+#: templates/admin/premium.php:513 templates/admin/premium.php:527
+msgid "FEATURED REVIEWS"
+msgstr ""
+
+#: templates/admin/premium.php:519
+#. translators: %1: html %2: html
+msgid ""
+"%1$sDid you like a review so much and you want to highlight it? That's easy "
+"to do!%2$s Go in the review list and click on the icon of that specific "
+"review: this will appear ahead of the other reviews of the product with a "
+"slightly different style. Your users will read it for sure!"
+msgstr ""
+
+#: templates/admin/premium.php:534 templates/admin/premium.php:539
+msgid "MORE DETAILS"
+msgstr ""
+
+#: templates/admin/premium.php:545
+#. translators: %1: html %2: html
+msgid ""
+"The Reviews custom post type gets %1$sricher%2$s and %1$sgrants%2$s you "
+"many new details about the reviews in a single screen.%3$sAt a glance, you "
+"could see how many people consider the review useful, if this has been "
+"reported as inappropriate, if a review is featured, or if the replies are "
+"blocked."
+msgstr ""
+
+#: templates/admin/premium.php:560 templates/admin/premium.php:574
+msgid "REPORT"
+msgstr ""
+
+#: templates/admin/premium.php:566
+#. translators: %1: html %2: html
+msgid ""
+"A detailed report that lets you control the %1$sinformation%2$s of the "
+"reviews for each product. You can easily discover which are the most "
+"reviewed products, and which are the best and worst voted."
+msgstr ""
+
+#: templates/admin/premium.php:581 templates/admin/premium.php:586
+msgid "STOP REPLY"
+msgstr ""
+
+#: templates/admin/premium.php:592
+#. translators: %1: html %2: html
+msgid ""
+"If you want to prevent the replies for specific reviews, you don't have to "
+"block the entire reply system. Go to the Review custom post type and "
+"%1$sblock the replies only for the reviews you want%2$s."
+msgstr ""
+
+#: templates/admin/premium.php:606
+msgid "SINGLE REVIEW"
+msgstr ""
+
+#: templates/admin/premium.php:612
+#. translators: %1: html %2: html
+msgid ""
+"Allow your users to write one %1$ssingle review for the product they "
+"bought%2$s. In this way, you will block any unhappy user to flood your site "
+"with negative comments."
+msgstr ""
+
+#: templates/admin/premium.php:620
+msgid "Single review"
+msgstr ""
+
+#: templates/admin/premium.php:627 templates/admin/premium.php:632
+msgid "EDIT REVIEWS"
+msgstr ""
+
+#: templates/admin/premium.php:638
+#. translators: %1: html %2: html
+msgid ""
+"Let users edit their reviews. Who purchased something from your shop will "
+"be free to %1$schange a negative comment in a positive one%2$s after "
+"resolving any problem or misunderstanding."
+msgstr ""
+
+#: templates/ywar-product-reviews-table.php:12
+msgid "Product reviews"
+msgstr ""
+
+#: templates/ywar-product-reviews-table.php:18
+msgid "Search reviews"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:29
+#. translators: %1: reviews_count %2: Title
+msgid "%1$s review for %2$s"
+msgid_plural "%1$s reviews for %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/ywar-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: templates/ywar-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:59
+#. translators: %s: string
+msgid "Write a reply to %s"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:63
+msgid "Name"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:65
+msgid "Email"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:68
+msgid "Submit"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:73
+msgid "Your Review"
+msgstr ""
+
+#: templates/ywar-product-reviews.php:83
+msgid "Only logged in customers who have purchased this product may write a review."
+msgstr ""
+
+#: templates/ywar-rating.php:41
+#. translators: %1: html %2: html
+msgid "out of %1$s5%2$s"
+msgstr ""
+
+#: templates/ywar-rating.php:46
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/ywar-rating.php:54
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/ywar-review.php:66
+msgid "Your comment is waiting for approval"
+msgstr ""
+
+#: templates/ywar-review.php:76
+msgid "verified owner"
+msgstr ""
+
+#: templates/ywar-single-product-reviews.php:16
+msgid "Customers' review"
+msgstr ""
+
+#: templates/ywar-single-product-reviews.php:36
+msgid "%s star"
+msgid_plural "%s stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#. Description of the plugin/theme
+msgid ""
+"<code><strong>YITH WooCommerce Advanced Reviews</strong></code> extends the "
+"basic functionality of WooCommerce reviews and add a histogram table to the "
+"reviews of your products, such as you see in most trendy e-commerce sites. "
+"<a href=\"https://yithemes.com/\" target=\"_blank\">Get more plugins for "
+"your e-commerce on <strong>YITH</strong></a>."
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:883
+msgctxt "Post Type General Name"
+msgid "Reviews"
+msgstr ""
+
+#: class.yith-woocommerce-advanced-reviews.php:884
+msgctxt "Post Type Singular Name"
+msgid "Review"
+msgstr ""
+
+#: lib/class.yith-woocommerce-advanced-reviews-privacy.php:35
+msgctxt "Privacy Policy Content"
+msgid "YITH Advanced Reviews for WooCommerce"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:10
+msgctxt "Privacy Policy Content"
+msgid ""
+"While you visit our site, we collect information about you during the "
+"process of creating comments or reviews of products. We’ll track:"
+msgstr ""
+
+#: views/privacy/html-policy-content-collect_and_store.php:13
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, author email, author IP, date, title, content and review url:  "
+"we’ll use this to create reviews of products"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:10
+msgctxt "Privacy Policy Content"
+msgid ""
+"Members of our team have access to the information you provide us. For "
+"example, both Administrators and Shop Managers can access:"
+msgstr ""
+
+#: views/privacy/html-policy-content-has_access.php:13
+msgctxt "Privacy Policy Content"
+msgid ""
+"Author name, author email, author IP, date, title and content of the "
+"reviews you have made"
+msgstr ""
+
+#: lib/class.yith-woocommerce-advanced-reviews-privacy.php:81
+#: lib/class.yith-woocommerce-advanced-reviews-privacy.php:194
+msgctxt "GDPR privacy"
+msgid "Yith Advanced Reviews"
+msgstr ""
+
+#: lib/class.yith-woocommerce-advanced-reviews-privacy.php:168
+msgctxt "GDPR privacy"
+msgid "Reviews"
+msgstr ""
+
+#: lib/class.yith-woocommerce-advanced-reviews-privacy.php:240
+msgctxt "GDPR privacy"
+msgid "Anonymous"
+msgstr ""
